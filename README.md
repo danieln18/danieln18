@@ -11,22 +11,9 @@ Sou um entusiasta em início de jornada no mundo da **Análise de Dados** e **En
 - 🌱 Atualmente aprendendo:
   - `Python` para análise e automação
   - `SQL` para manipulação de dados
-  - `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`
+  - `Pandas`, `Matplotlib`, `Seaborn`, `Plotly` (estudos iniciais)
   - `Apache Airflow`, `DBT`, `Spark` (estudos iniciais)
 
----
-
-## 📁 Meus Repositórios
-
-Aqui você encontrará projetos práticos e estudos pessoais:
-
-- 📊 **Análise de Dados com Python**
-  - Limpeza, análise e visualização de datasets reais
-- 🧮 **Projetos com SQL**
-  - Consultas e modelagem de dados
-- 🔄 **Engenharia de Dados (em andamento)**
-  - Pipelines ETL com ferramentas modernas
-  - 
 ---
 
 ## 📌 Objetivos
